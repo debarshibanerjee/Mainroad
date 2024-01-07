@@ -1,24 +1,4 @@
-# Mainroad
-
-**Mainroad** is a responsive, simple, clean and content-focused [Hugo](https://gohugo.io/) theme based on the
-[MH Magazine lite](https://wordpress.org/themes/mh-magazine-lite/) theme.
-
-**[Demo](https://mainroad-demo.netlify.app/)** • **[Docs](https://mainroad-demo.netlify.app/docs/)**
-
-![screenshot](https://raw.githubusercontent.com/Vimux/Mainroad/master/images/screenshot.png)
-
-**Features:**
-
-+ Responsive design
-+ Main & secondary menus
-+ Widgetized sidebar
-+ Translations. Over 15 languages and counting
-+ Configurable theme settings (sidebar position, author box, post navigation, highlight color) via `config.toml`
-+ Hugo internal templates (Open Graph, Schema, Twitter Cards, Disqus, Google Analytics)
-+ Wide cross-browser compatibility
-  + *Desktop: IE11+, Chrome, Firefox, Safari*
-  + *Mobile: Android browser (on Android 4.4+), Safari (on iOS 7+), Google Chrome, Opera mini*
-+ Custom Google Fonts support, MathJax, Table of Contents, SVG icons and much more…
+# DO NOT UPDATE FROM MAIN REPO: Mainroad
 
 ## Installation
 
